@@ -1,5 +1,8 @@
 @import "../../../node_modules/normalize-scss/sass/normalize/_import-now";
-@import "base/_grid";
+@import "base/_layout";
 @import "modules/_sidebar";
 @import "modules/_main-section";
 @import "modules/_content-section";
+
+/*fonts*/
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700');
