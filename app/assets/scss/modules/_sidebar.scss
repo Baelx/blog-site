@@ -41,7 +41,12 @@
 .main-menu {
   list-style-type: none;
 
+  li {
+  margin: 10px;  
+  }
+
   a {
     text-decoration: none;
+    text-transform: uppercase;
   }
 }

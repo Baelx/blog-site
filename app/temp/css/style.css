@@ -440,8 +440,11 @@ body {
 
 .main-menu {
   list-style-type: none; }
+  .main-menu li {
+    margin: 10px; }
   .main-menu a {
-    text-decoration: none; }
+    text-decoration: none;
+    text-transform: uppercase; }
 
 .main {
   position: relative;
